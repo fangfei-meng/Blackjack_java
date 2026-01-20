@@ -1,4 +1,4 @@
-package blackjack_haofu;
+package blackjack_fangfei;
 
 import java.util.*;
 import java.io.PrintWriter;
@@ -471,3 +471,4 @@ public class Array
 	}// ends printArrayToFile method
 	
 }
+
